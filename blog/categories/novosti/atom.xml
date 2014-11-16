@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Новости | Oliva &beta;]]></title>
+  <link href="http://0liva.com/blog/categories/novosti/atom.xml" rel="self"/>
+  <link href="http://0liva.com/"/>
+  <updated>2014-11-16T23:45:11+03:00</updated>
+  <id>http://0liva.com/</id>
+  <author>
+    <name><![CDATA[Алексей]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Открытая регистрация]]></title>
+    <link href="http://0liva.com/blog/2014/11/16/title/"/>
+    <updated>2014-11-16T23:20:02+03:00</updated>
+    <id>http://0liva.com/blog/2014/11/16/title</id>
+    <content type="html"><![CDATA[<p>После недели тестирования мы решаем открыть регистрацию. Последние штрихи и базовый функционал будет готов. Остается обьяснить полезность данного сервиса :).</p>
+]]></content>
+  </entry>
+  
+</feed>
