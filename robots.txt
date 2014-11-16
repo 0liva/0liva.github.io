@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://0liva.com/sitemap.xml 
+Sitemap: http://0liva.github.io/sitemap.xml 

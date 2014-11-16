@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Oliva &beta;]]></title>
-  <link href="http://0liva.com/atom.xml" rel="self"/>
-  <link href="http://0liva.com/"/>
-  <updated>2014-11-16T23:45:11+03:00</updated>
-  <id>http://0liva.com/</id>
+  <link href="http://0liva.github.io/atom.xml" rel="self"/>
+  <link href="http://0liva.github.io/"/>
+  <updated>2014-11-17T00:21:26+03:00</updated>
+  <id>http://0liva.github.io/</id>
   <author>
     <name><![CDATA[Алексей]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Открытая регистрация]]></title>
-    <link href="http://0liva.com/blog/2014/11/16/title/"/>
+    <link href="http://0liva.github.io/blog/2014/11/16/title/"/>
     <updated>2014-11-16T23:20:02+03:00</updated>
-    <id>http://0liva.com/blog/2014/11/16/title</id>
+    <id>http://0liva.github.io/blog/2014/11/16/title</id>
     <content type="html"><![CDATA[<p>После недели тестирования мы решаем открыть регистрацию. Последние штрихи и базовый функционал будет готов. Остается обьяснить полезность данного сервиса :).</p>
 ]]></content>
   </entry>
